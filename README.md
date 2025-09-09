@@ -10,7 +10,9 @@ Full-Stack and GIS Developer
 ----------------------------
 </br>
 Full-Stack and GIS Developer with a Computer Science background, experienced in designing user-centric, scalable applications. Adept at integrating geospatial data and modern development practices to deliver efficient, reliable solutions.
+
 </br></br>
+
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [rian.h04@gmail.com](mailto:rian.h04@gmail.com)
 * 👥  I'm looking to collaborate on intresting projects
