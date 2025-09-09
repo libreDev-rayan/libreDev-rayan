@@ -8,18 +8,15 @@ Hi 👋 My name is Rayan Almohammadi
 
 Full-Stack and GIS Developer
 ----------------------------
-</br></br>
+</br>
 Full-Stack and GIS Developer with a Computer Science background, experienced in designing user-centric, scalable applications. Adept at integrating geospatial data and modern development practices to deliver efficient, reliable solutions.
 </br></br>
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [rian.h04@gmail.com](mailto:rian.h04@gmail.com)
 * 👥  I'm looking to collaborate on intresting projects
 
-</br></br>
+</br>
   <h3 align="left">Languages and Tools:</h3>
-
-
-
 
 <p align="center">
 &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
@@ -53,7 +50,7 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
 &nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 &nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-</br></br>
+</br>
 
 ## Connect with me:
 
@@ -67,7 +64,7 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
   </a>
   <img src="https://komarev.com/ghpvc/?username=libredev-rayan&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="libredev-rayan" />
 </p>
-</br></br>
+</br>
 
 ### My GitHub Stats
 <div align="center">
