@@ -53,7 +53,7 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
 &nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 &nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-
+</br></br>
 ## Connect with me:
 
 
@@ -66,7 +66,7 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
   </a>
   <img src="https://komarev.com/ghpvc/?username=libredev-rayan&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="libredev-rayan" />
 </p>
-</br></br></br>
+</br></br>
 
 ### My GitHub Stats
 <div align="center">
@@ -78,6 +78,4 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
 <a href="https://github.com/libreDev-rayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=libreDev-rayan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p></p>
 </div>
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
