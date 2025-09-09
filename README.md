@@ -14,7 +14,7 @@ Full-Stack and GIS Developer with a Computer Science background, experienced in 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [rian.h04@gmail.com](mailto:rian.h04@gmail.com)
 * 👥  I'm looking to collaborate on intresting projects
-*  👀 I'm interested to Build useful and enjoyable Applications
+
 </br></br>
   <h3 align="left">Languages and Tools:</h3>
 
